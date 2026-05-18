@@ -1,0 +1,16 @@
+{
+  "name": "zoom",
+  "owner": {
+    "name": "Zoom"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/zoom-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "zoom-video-sdk",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/zoom-video-sdk.git"
+      }
+    }
+  ]
+}
